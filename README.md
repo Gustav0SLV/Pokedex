@@ -1,2 +1,3 @@
-# Pokedex
-Exercicio Pokedex DIO
+# Trilha JS Developer - Pokedex
+
+ -Exercício Dio Treinamento JS
