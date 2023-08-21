@@ -1,3 +1,3 @@
-# Trilha JS Developer - Pokedex
+# Santander Bootcamp 2023 - Fullstack Java+Angular
 
- -Exercício Dio Treinamento JS
+ -Exercício Dio Treinamento Fullstack Java+Angular
